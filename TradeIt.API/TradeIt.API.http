@@ -1,0 +1,6 @@
+@TradeIt.API_HostAddress = http://localhost:5291
+
+GET {{TradeIt.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
